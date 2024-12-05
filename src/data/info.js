@@ -6,7 +6,7 @@ const projects =[
         title : "jwt-auth-utility",
         description : "A lightweight Node.js package simplifying JWT handling for secure authentication. Easily configure token generation, validation, expiration, and refresh tokens—perfect for enhancing security in any authentication flow.",
         tech : ["Node.js", "jsonwebtoken"],
-        // github : "https://github.com/rRahul0/ChatApp",
+        github : "https://github.com/rahulkarmakar28/jwt-auth-utility",
         demo : "https://www.npmjs.com/package/jwt-auth-utility",
 
     },{
@@ -14,7 +14,7 @@ const projects =[
         title : "NeoChat",
         description : "NeoChat is a real-time chat application using the MERN stack and Socket.io. It features JWT-based user authentication, online/offline status, encrypted messaging, group chats, channels, and file sharing. Hosted on Vercel and Render, it provides a seamless communication experience with real-time updates and efficient search functionality.",
         tech : ["ReactJs","Redux", "Express", "MongoDB", "Node.js", "Web Socket", "JWT", "Cloudinary", "Tailwind CSS"],
-        github : "https://github.com/rRahul0/ChatApp",
+        github : "https://github.com/rahulkarmakar28/ChatApp",
         demo : "https://neochat.rahulkarmakar.me",
 
     },{
@@ -22,7 +22,7 @@ const projects =[
         title : "StudyNotion",
         description : "StudyNotion is a full-stack EdTech platform for instructors to create courses and students to purchase and review them. It offers dashboards for Students, Instructors, and Admins, secure payments via Razorpay, user authentication, and automated emails. Responsive design, hosted on Vercel and Render, with media storage on Cloudinary.",
         tech : ["ReactJs","Redux", "Express", "MongoDB", "Node.js", "Razorpay", "JWT", "Cloudinary", "Tailwind CSS"],
-        github : "https://github.com/rRahul0/StudyNotion",
+        github : "https://github.com/rahulkarmakar28/StudyNotion",
         demo : "https://studynotion.rahulkarmakar.me",
 
     },{
@@ -30,30 +30,30 @@ const projects =[
         title : "Dev Detective",
         description : "DevDetective is a web page using HTML, CSS, and JavaScript to search and display GitHub profiles. It includes light and dark modes for a customizable user experience, allowing users to find profiles and view detailed information about repositories and contributions easily.",
         tech : ["HTML", "CSS", "JavaScript"],
-        github : "https://github.com/rRahul0/DevDetective",
-        demo : "https://rrahul0.github.io/DevDetective/",
+        github : "https://github.com/rahulkarmakar28/DevDetective",
+        demo : "https://rahulkarmakar28.github.io/DevDetective/",
 
     },{
         image : "/tic tac toe.png",
         title : "Tic Tac Toe",
         description : "Tic-Tac-Toe is a web-based game implemented with HTML, CSS, and JavaScript. It features a classic 3x3 grid where players can take turns marking Xs and Os. The game includes win detection, a reset option, and a responsive design for an engaging and interactive user experience.",
         tech : ["HTML", "CSS", "JavaScript"],
-        github : "https://github.com/rRahul0/Tic_Tac_Toe",
-        demo : "https://rrahul0.github.io/Tic_Tac_Toe/",
+        github : "https://github.com/rahulkarmakar28/Tic_Tac_Toe",
+        demo : "https://rahulkarmakar28.github.io/Tic_Tac_Toe/",
     },{
         image : "/password.png",
         title : "Password Generator",
         description : "Password Generator is a web app built with HTML, CSS, and JavaScript that creates secure passwords. Users can set password length using a slider and choose character types with checkboxes. The app displays password strength and allows users to copy the generated password to the clipboard.",
         tech : ["HTML", "CSS", "JavaScript"],
-        github : "https://github.com/rRahul0/Password_Generator",
-        demo : "https://rrahul0.github.io/Password_Generator/",
+        github : "https://github.com/rahulkarmakar28/Password_Generator",
+        demo : "https://rahulkarmakar28.github.io/Password_Generator/",
     },{
         image : "/weather.png",
         title : "Weather App",
         description : "WeatherApp is a web page built with HTML, CSS, and JavaScript that provides real-time weather information. It prompts users to enable location services for automatic weather updates of their current area, and also allows users to search for weather details by location name. The app features a responsive, user-friendly design.",
         tech : ["HTML", "CSS", "JavaScript"],
-        github : "https://github.com/rRahul0/WeatherApp",
-        demo : "https://rrahul0.github.io/WeatherApp/",
+        github : "https://github.com/rahulkarmakar28/WeatherApp",
+        demo : "https://rahulkarmakar28.github.io/WeatherApp/",
     }
 ]
 

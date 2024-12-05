@@ -19,7 +19,7 @@ export default function Contact() {
                 whileInView={{opacity: 1, y:0}}
                 initial={{opacity: 0, y: -100}}
                 transition={{duration: 1}} className="my-4">{contact.phoneno}</motion.p>
-                <a href="mailto:karmakarrahul503@gmail.com" className="border-b">{contact.email}</a>
+                <a href="mailto:rahulkarmakar28112002@gmail.com" className="border-b">{contact.email}</a>
 
             </div>
         </div>
