@@ -19,7 +19,12 @@ export default function Navbar() {
                 <a href="https://github.com/rahulkarmakar28" target="_blank" rel="noopener nopreferrer" aria-label="Linkedin">
                     <FaGithub />
                 </a>
-                <a href="mailto:rahulkarmakar28112002@gmail.com" rel="noopener nopreferrer" aria-label="Linkedin">
+                <a
+                    href="https://mail.google.com/mail/?view=cm&fs=1&to=rahulkarmakar28112002@gmail.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="Send Email"
+                >
                     <MdEmail />
                 </a>
             </div>
