@@ -72,7 +72,7 @@ export default function HeroSection() {
                                 className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10 ">Download Resume</motion.a>
                             <motion.a
                                 variants={childVariants}
-                                href="/resume.pdf"
+                                href="/Rahul Karmakar_resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10 ">See Resume</motion.a>
