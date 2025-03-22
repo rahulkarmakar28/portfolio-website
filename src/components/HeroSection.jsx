@@ -65,14 +65,14 @@ export default function HeroSection() {
                         <div className="flex gap-10">
                             <motion.a
                                 variants={childVariants}
-                                href="/Rahul Karmakar_resume.pdf"
+                                href="/Rahul_Karmakar_resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 download="Rahul_Karmakar_Resume.pdf"
                                 className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10 ">Download Resume</motion.a>
                             <motion.a
                                 variants={childVariants}
-                                href="/Rahul Karmakar_resume.pdf"
+                                href="/Rahul_Karmakar_resume.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10 ">See Resume</motion.a>
