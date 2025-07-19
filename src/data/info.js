@@ -2,6 +2,22 @@ const heroContent = "I am a passionate Full Stack Developer with a strong founda
 
 const projects =[
     {
+        image : "/code-sandbox.png",
+        title : "code-sandbox",
+        description : "CodeSandbox is a full-stack code execution platform supporting languages like C, C++, Python, Java, and Go. It features secure, Docker-based sandboxing, real-time output via WebSockets, and a Redis-powered job queue. Built with a microservices architecture using AWS EC2 for scalable execution.",
+        tech : ["NextJS", "NodeJS", "Clerk", "Tailwind CSS", "TypeScript", "Cloudflare", "Docker", "AWS"],
+        github : "https://github.com/rahulkarmakar28/code-sandbox",
+        demo : "https://codesandbox.rahulkarmakar.me",
+
+    },{
+        image : "/encryptor-e2e.png",
+        title : "encryptor-e2e",
+        description : "A lightweight Node.js package for end-to-end message encryption using AES. Easily integrates into servers and applications to securely encrypt and decrypt data in transit or at rest.",
+        tech : ["Node.js", "crypto-js", "node-rsa"],
+        github : "https://github.com/rahulkarmakar28/encryptor-e2e",
+        demo : "https://www.npmjs.com/package/encryptor-e2e",
+
+    },{
         image : "/jwt-auth-utility.png",
         title : "jwt-auth-utility",
         description : "A lightweight Node.js package simplifying JWT handling for secure authentication. Easily configure token generation, validation, expiration, and refresh tokens—perfect for enhancing security in any authentication flow.",
