@@ -7,7 +7,7 @@ const projects =[
         description : "CodeSandbox is a full-stack code execution platform supporting languages like C, C++, Python, Java, and Go. It features secure, Docker-based sandboxing, real-time output via WebSockets, and a Redis-powered job queue. Built with a microservices architecture using AWS EC2 for scalable execution.",
         tech : ["NextJS", "NodeJS", "Clerk", "Tailwind CSS", "TypeScript", "Cloudflare", "Docker", "AWS"],
         github : "https://github.com/rahulkarmakar28/code-sandbox",
-        demo : "https://codesandbox.rahulkarmakar.me",
+        // demo : "https://codesandbox.rahulkarmakar.me",
 
     },{
         image : "/encryptor-e2e.png",
@@ -31,7 +31,7 @@ const projects =[
         description : "NeoChat is a real-time chat application using the MERN stack and Socket.io. It features JWT-based user authentication, online/offline status, encrypted messaging, group chats, channels, and file sharing. Hosted on Vercel and Render, it provides a seamless communication experience with real-time updates and efficient search functionality.",
         tech : ["ReactJs","Redux", "Express", "MongoDB", "Node.js", "Web Socket", "JWT", "Cloudinary", "Tailwind CSS"],
         github : "https://github.com/rahulkarmakar28/ChatApp",
-        demo : "https://neochat.rahulkarmakar.me",
+        demo : "https://chat-app-tau-taupe-73.vercel.app",
 
     },{
         image : "/studynotion.png",
@@ -39,7 +39,7 @@ const projects =[
         description : "StudyNotion is a full-stack EdTech platform for instructors to create courses and students to purchase and review them. It offers dashboards for Students, Instructors, and Admins, secure payments via Razorpay, user authentication, and automated emails. Responsive design, hosted on Vercel and Render, with media storage on Cloudinary.",
         tech : ["ReactJs","Redux", "Express", "MongoDB", "Node.js", "Razorpay", "JWT", "Cloudinary", "Tailwind CSS"],
         github : "https://github.com/rahulkarmakar28/StudyNotion",
-        demo : "https://studynotion.rahulkarmakar.me",
+        demo : "https://study-notion-swart-three.vercel.app",
 
     },{
         image : "/dev detective.png",
